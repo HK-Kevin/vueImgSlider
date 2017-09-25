@@ -7,7 +7,7 @@
   - 水平和垂直
 
 
->[demo](http://vuejs-templates.github.io/webpack/)
+>[demo](https://hk-kevin.github.io/vueImgSlider/)
 
 ## 如何使用
 
